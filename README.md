@@ -29,7 +29,7 @@
 
 3. Open <http://localhost:3000>, click on download model to download the required model initially
 
-4. Upload any document of your choice and click on Ingest data. Ingestion is fast
+4. Upload any document of your choice and click on Ingest data. Ingestion is fast (some example is puted in to the file , you can just click ingest data and ask question)
 
 5. Now run any query on your data. Data querying is slow and thus wait for sometime
 
