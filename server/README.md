@@ -1,6 +1,4 @@
-# privateGPT Server
 
-A Flask application to manage your privateGPT instance.
 
 ## MacOS Installation Notes
 
